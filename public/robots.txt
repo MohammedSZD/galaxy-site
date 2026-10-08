@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://mohammedszd.github.io/galaxy-site/sitemap.xml
